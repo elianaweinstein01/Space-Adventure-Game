@@ -81,5 +81,6 @@ Building this game taught me:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/space-adventure-game.git
-   cd space-adventure-game
+   git clone https://github.com/elianaweinstein01/Space-Adventure-Game.git
+   cd Space-Adventure-Game
+
