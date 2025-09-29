@@ -83,4 +83,8 @@ Building this game taught me:
    ```bash
    git clone https://github.com/elianaweinstein01/Space-Adventure-Game.git
    cd Space-Adventure-Game
+2. Ensure Draw.py and all .gif files are in the same folder as finalProject.py.
+3. Run the game:
+   ```bash
+   python3 finalProject.py
 
