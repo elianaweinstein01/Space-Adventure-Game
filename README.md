@@ -1,5 +1,9 @@
 # 🚀 Space Adventure Game
 
+### Gameplay
+
+![Gameplay Demo](media/gameplay.GIF)
+
 This project is an **interactive space-themed game** I built for my **Introduction to Computer Science class**.  
 It was written entirely in **Python**, using the `Draw` graphics library, and showcases my ability to combine **programming fundamentals, game design, and user interaction** into a fun, playable experience.
 
@@ -87,4 +91,9 @@ Building this game taught me:
 3. Run the game:
    ```bash
    python3 finalProject.py
+
+### Start screen
+![start](media/startscreen.GIF)
+### Game Over
+![end](media/gameover.GIF)
 
